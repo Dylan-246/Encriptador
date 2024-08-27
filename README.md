@@ -34,22 +34,6 @@ Tecnologías utilizadas
 - **CSS**: Estilos y diseño de la página.
 - **JavaScript**: Lógica de encriptación, desencriptación y copia al portapapeles.
 
-Instrucciones de uso
-
-1. Clona el repositorio en tu máquina local:
-
-    ```bash
-    git clone https://github.com/Dylan-246/Encriptador.git
-    ```
-
-2. Abre el archivo `index.html` en tu navegador web.
-
-3. Ingresa el texto que desees encriptar o desencriptar en el campo de entrada.
-
-4. Haz clic en el botón "Encriptar" para encriptar el texto, o "Desencriptar" para volver al texto original.
-
-5. Usa el botón "Copiar Texto" para copiar el resultado al portapapeles.
-
 Autor
 
 Proyecto desarrollado por Dylan Andres Sierra Osorio (https://github.com/Dylan-246).
